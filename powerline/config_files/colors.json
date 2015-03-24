@@ -28,6 +28,8 @@
 		"mediumpurple": 98,
 		"brightpurple": 189,
 
+        "deeppink": 125,
+
 		"darkorange": 94,
 		"mediumorange": 166,
 		"brightorange": 208,
@@ -54,6 +56,7 @@
 		"gray70": [249, "b3b3b3"],
 
 		"lightyellowgreen": 106,
+		"yellowgreen": 190,
 		"gold3": 178,
 		"orangered": 202,
 
